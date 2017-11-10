@@ -1,2 +1,2 @@
 # chrome-extension--twitter-140
-https://twitter.com/shshaw/status/928387970280951808
+download and install the .crx file, or use clone and use with developer mode after selecting the folder repository. Coming to the store soon?
